@@ -1,3 +1,5 @@
+using System.Windows.Input;
+
 namespace Snake
 {
     public partial class MainWindow : Window
