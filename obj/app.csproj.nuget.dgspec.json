@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trell/Projects/c-sharp-project/app/app.csproj": {}
+    "/Users/trell/Projects/c-sharp-project/app.csproj": {}
   },
   "projects": {
-    "/Users/trell/Projects/c-sharp-project/app/app.csproj": {
+    "/Users/trell/Projects/c-sharp-project/app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trell/Projects/c-sharp-project/app/app.csproj",
+        "projectUniqueName": "/Users/trell/Projects/c-sharp-project/app.csproj",
         "projectName": "app",
-        "projectPath": "/Users/trell/Projects/c-sharp-project/app/app.csproj",
+        "projectPath": "/Users/trell/Projects/c-sharp-project/app.csproj",
         "packagesPath": "/Users/trell/.nuget/packages/",
-        "outputPath": "/Users/trell/Projects/c-sharp-project/app/obj/",
+        "outputPath": "/Users/trell/Projects/c-sharp-project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trell/.nuget/NuGet/NuGet.Config"
