@@ -40,7 +40,7 @@ namespace Snake
             {
                 for (int c = 0; c < Cols; c++)
                 {
-                    if (Grid[r,c] === GridValue.Empty)
+                    if (Grid[r,c] == GridValue.Empty)
                     {
                         yield return new Position(r, c);
                     }
